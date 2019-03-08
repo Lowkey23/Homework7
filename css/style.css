@@ -3,7 +3,6 @@ header {
 	position: fixed;
 	z-index: 999;
 	background-color: rgb(102, 153, 153,0.8);
-	padding-bottom: 25px;
 }
 .logo {
 	width: 198px;
@@ -35,7 +34,6 @@ header {
 .container-1 {
 	width: 100%;
 	height: 675px;
-	position: absolute;
 	background-color: #E6E6E6;
 	position: relative;
 }
